@@ -1,4 +1,4 @@
 [submodule "invision-dom"]
 	path = invision-dom
 	url = https://github.com/ihiji/invision-dom
-	branch = master
+	branch = development
